@@ -1,8 +1,8 @@
-#文件监控
+# 文件监控
 
 IP-CIDR,120.76.141.58/32,no-resolve
 
-#国家反诈中心
+# 国家反诈中心
 
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapp-test-tyy.gjfzpt.cn
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,fzapp.gjfzpt.cn
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
 
-#反诈IP
+# 反诈IP
 
 IP-CIDR,49.7.228.53/32,no-resolve
 IP-CIDR,14.29.101.168/32,no-resolve
@@ -156,7 +156,7 @@ IP-CIDR,210.22.248.224/32,no-resolve
 IP-CIDR,110.156.168.146/32,no-resolve
 IP-CIDR,223.109.62.202/32,no-resolve
 
-#备案域名
+# 备案域名
 
 IP-CIDR,112.84.222.56/32,no-resolve
 IP-CIDR,111.62.149.129/32,no-resolve
