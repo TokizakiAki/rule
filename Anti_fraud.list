@@ -1,6 +1,16 @@
+#Anti_sogou.list已合并至此list
 # 文件监控
 
 IP-CIDR,120.76.141.58/32,no-resolve
+
+# 搜狗监控
+
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,sougou.com
+DOMAIN-SUFFIX,sogou.cn
+DOMAIN-SUFFIX,sogou.com.cn
+DOMAIN-SUFFIX,sogo.com
+DOMAIN-SUFFIX,soso.com
 
 # 国家反诈中心
 
@@ -155,16 +165,3 @@ IP-CIDR,121.228.190.71/32,no-resolve
 IP-CIDR,210.22.248.224/32,no-resolve
 IP-CIDR,110.156.168.146/32,no-resolve
 IP-CIDR,223.109.62.202/32,no-resolve
-
-# 备案域名
-
-IP-CIDR,112.84.222.56/32,no-resolve
-IP-CIDR,111.62.149.129/32,no-resolve
-IP-CIDR,119.39.205.85/32,no-resolve
-IP-CIDR,27.155.113.108/32,no-resolve
-IP-CIDR,124.238.251.188/32,no-resolve
-IP-CIDR,116.211.128.178/32,no-resolve
-IP-CIDR,36.158.231.210/32,no-resolve
-IP-CIDR,112.45.27.156/32,no-resolve
-IP-CIDR,42.202.155.215/32,no-resolve
-IP-CIDR,59.63.226.86/32,no-resolve
