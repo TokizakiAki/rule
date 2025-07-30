@@ -1,10 +1,8 @@
-#Anti_sogou.list已合并至此list
+# Anti_sogou.list已合并至此
 # 文件监控
-
 IP-CIDR,120.76.141.58/32,no-resolve
 
 # 搜狗监控
-
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sougou.com
 DOMAIN-SUFFIX,sogou.cn
@@ -13,7 +11,6 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,soso.com
 
 # 国家反诈中心
-
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapp-test-tyy.gjfzpt.cn
 DOMAIN-SUFFIX,oss.gjfzpt.cn
@@ -22,7 +19,6 @@ DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
 
 # 反诈IP
-
 IP-CIDR,49.7.228.53/32,no-resolve
 IP-CIDR,14.29.101.168/32,no-resolve
 IP-CIDR,14.29.101.160/32,no-resolve
